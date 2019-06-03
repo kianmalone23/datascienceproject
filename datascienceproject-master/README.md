@@ -1,6 +1,3 @@
-# datascienceproject
-Data science project <br/>
-bout to be sick <br/>  https://www.sdss.org/dr15/data_access/ <br/> http://skyserver.sdss.org/dr15/en/help/docs/sql_help.aspx <br/> http://skyserver.sdss.org/dr15/en/home.aspx <br/>
-git add "Name of File" <br/>
-git commit -m "Comment of change" <br/>
-git push <br/>
+# Data Science Final Project
+
+For our COMP 4100 final project, we computed foundational astrophysical findings using modern data science techniques. The first steps of our project utilized a linear regression on large data sets to estimate the Hubble parameter, a measure of the expansion of the universe. After this value was established, we implemented machine learning algorithms to classify populations of blue and red galaxies and separate active quasars from galaxies. For a summary of our findings and analysis, review Final_Notebook.ipnyb. 
